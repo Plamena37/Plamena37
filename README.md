@@ -4,7 +4,7 @@
 
 ### :woman_student: Currently studing Software Engineering at Burgas Free University
 
-### :sparkles: I'm interested in Front-end technologies
+### :sparkles: Interested in Front-end technologies
 
 ### 📖 Have basic knowledge of
 -  🚀 HTML5
