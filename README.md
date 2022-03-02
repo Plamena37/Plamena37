@@ -11,5 +11,5 @@
 -  🚀 CSS3
 -  🚀 JavaScript
 
-### 🌱 I’m currently learning React
+### 🌱 Currently learning React
 
