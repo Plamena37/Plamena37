@@ -10,10 +10,11 @@
 -  🚀 HTML5
 -  🚀 CSS3
 -  🚀 JavaScript
+-  🚀 React
 
 ### 🔖 Libraries that I'm using:
 - React Router
 - MaterialUI
 
-### 🌱 Currently learning React
+### 🌱 Currently working on a React project
 
