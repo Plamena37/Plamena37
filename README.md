@@ -16,5 +16,5 @@
 - React Router
 - MaterialUI
 
-### 🌱 Currently working on a React project
+### 🌱 Currently working on my FunVenture react project
 
