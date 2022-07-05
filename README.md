@@ -6,7 +6,7 @@
 
 ### :sparkles: Interested in Front-end technologies
 
-### 📖 Have basic knowledge of;
+### 📖 Have basic knowledge of:
 -  🚀 HTML5
 -  🚀 CSS3
 -  🚀 JavaScript
