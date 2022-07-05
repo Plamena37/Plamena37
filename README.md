@@ -15,6 +15,7 @@
 ### 🔖 Libraries that I'm using:
 - React Router
 - MaterialUI
+- Angular Material
 
 ### 👩‍💻 Currently learning:
 -  📚 Angular
