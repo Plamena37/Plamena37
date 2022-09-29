@@ -2,7 +2,7 @@
 
 ### 🌊 Located in Burgas
 
-### :woman_student: Currently studing Software Engineering at Burgas Free University
+### :woman_student: I've recently graduated Software Engineering at Burgas Free University
 
 ### :sparkles: Interested in Front-end technologies
 
