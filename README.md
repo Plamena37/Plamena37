@@ -12,14 +12,19 @@
 -  🚀 JavaScript
 -  🚀 React
 
+### 💁‍♀️ and not so basic but still...:
+-  📚 Angular
+-  📚 Typescript
+
 ### 🔖 Libraries that I'm using:
 - React Router
 - MaterialUI
 - Angular Material
 
+
 ### 👩‍💻 Currently learning:
--  📚 Angular
--  📚 Typescript
+- SCSS
+
 
 
 ### 🌱 At present working on my FunVenture react project
