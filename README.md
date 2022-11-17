@@ -9,6 +9,7 @@
 ### 📖 Have basic knowledge of:
 -  🚀 HTML5
 -  🚀 CSS3
+-  🚀 SCSS
 -  🚀 JavaScript
 -  🚀 React
 
@@ -22,8 +23,8 @@
 - Angular Material
 
 
-### 👩‍💻 Currently learning:
-- SCSS
+<!-- ### 👩‍💻 Currently learning:
+-  -->
 
 
 
