@@ -13,9 +13,10 @@
 -  🚀 JavaScript
 -  🚀 React
 
-### 💁‍♀️ and not so basic but still...:
--  📚 Angular
--  📚 Typescript
+<!-- ### 💁‍♀️ and not so basic but still...: -->
+
+### 📚 Barely scratched the surface with:
+-  Angular, Typescript, Redux, NextJS, Firebase
 
 ### 🔖 Libraries that I'm using:
 - React Router
