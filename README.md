@@ -29,5 +29,5 @@
 
 
 
-### 🌱 At present working on my FunVenture react project
+### 🌱 At present gaining new knowledge in Redux and Typescript
 
