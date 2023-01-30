@@ -22,6 +22,7 @@
 - React Router
 - MaterialUI
 - Angular Material
+- Notistack
 
 
 <!-- ### 👩‍💻 Currently learning:
