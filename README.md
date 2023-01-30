@@ -15,8 +15,8 @@
 
 <!-- ### 💁‍♀️ and not so basic but still...: -->
 
-### 📚 Barely scratched the surface with:
--  Angular, Typescript, Redux, NextJS, Firebase
+### 📚 Scratched the surface with:
+-  Angular, Typescript, Redux Toolkit, NextJS, Firebase
 
 ### 🔖 Libraries that I'm using:
 - React Router
@@ -29,5 +29,5 @@
 
 
 
-### 🌱 At present gaining new knowledge in Redux and Typescript
+### 🌱 At present gaining new knowledge in Redux Toolkit and Typescript
 
