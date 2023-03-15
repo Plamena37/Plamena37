@@ -16,13 +16,14 @@
 <!-- ### 💁‍♀️ and not so basic but still...: -->
 
 ### 📚 Scratched the surface with:
--  Angular, Typescript, Redux Toolkit, NextJS, Firebase
+-  Angular, Typescript, Redux Toolkit, Tailwind CSS, NextJS, Firebase
 
 ### 🔖 Libraries that I'm using:
 - React Router
 - MaterialUI
 - Angular Material
 - Notistack
+- Framer Motion
 
 
 <!-- ### 👩‍💻 Currently learning:
@@ -30,5 +31,5 @@
 
 
 
-### 🌱 At present gaining new knowledge in Redux Toolkit and Typescript
+### 🌱 At present gaining new knowledge in Typescript, Redux Toolkit and Tailwind CSS 
 
