@@ -2,34 +2,25 @@
 
 ### 🌊 Located in Burgas
 
-### :woman_student: I've recently graduated Software Engineering at Burgas Free University
+### :woman_student: I've successfully graduated Software Engineering at Burgas Free University
 
 ### :sparkles: Interested in Front-end technologies
 
-### 📖 Have basic knowledge of:
+### 📖 My main stack:
 -  🚀 HTML5
 -  🚀 CSS3
 -  🚀 SCSS
 -  🚀 JavaScript
 -  🚀 React
+-  🚀 TypeScript
+-  🚀 Redux Toolkit
 
-<!-- ### 💁‍♀️ and not so basic but still...: -->
+### 📚 Have basic experience with:
+-  Node.js, NestJS, Mongo DB, Tailwind CSS, Firebase
 
-### 📚 Scratched the surface with:
--  Angular, Typescript, Redux Toolkit, Tailwind CSS, NextJS, Firebase
+### 🔖 Explored libraries:
+- React Router, React-hook-form, MaterialUI, Angular Material, Lodash, Day.js, Framer Motion, Notistack
 
-### 🔖 Libraries that I'm using:
-- React Router
-- MaterialUI
-- Angular Material
-- Notistack
-- Framer Motion
-
-
-<!-- ### 👩‍💻 Currently learning:
--  -->
-
-
-
+<!--
 ### 🌱 At present gaining new knowledge in Typescript, Redux Toolkit and Tailwind CSS 
-
+ -->
