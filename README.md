@@ -6,21 +6,38 @@
 
 ### :sparkles: Interested in Front-end technologies
 
-### 📖 My main stack:
--  🚀 HTML5
--  🚀 CSS3
--  🚀 SCSS
--  🚀 JavaScript
--  🚀 React
--  🚀 TypeScript
--  🚀 Redux Toolkit
+### My main stack:
+>  🔲 JavaScript
+>  🔲 React
+>  🔲 TypeScript
+>  🔲 Redux Toolkit
+>  🔲 HTML5
+>  🔲 CSS3
+>  🔲 SCSS
 
-### 📚 Have basic experience with:
--  Node.js, NestJS, Mongo DB, Tailwind CSS, Firebase
 
-### 🔖 Explored libraries:
-- React Router, React-hook-form, MaterialUI, Angular Material, Lodash, Day.js, Framer Motion, Notistack
+### Have basic experience with:
+> ◼️ Node.js
+> ◼️ NestJS
+> ◼️ Mongo DB
+> ◼️ Tailwind CSS
+> ◼️ Firebase
 
-<!--
-### 🌱 At present gaining new knowledge in Typescript, Redux Toolkit and Tailwind CSS 
- -->
+###  Explored libraries:
+> 🟫 React Router
+> 🟫 React-hook-form
+> 🟫 Material UI
+> 🟫 Angular Material
+> 🟫 Lodash
+> 🟫 Day.js
+> 🟫  Framer Motion
+> 🟫 Notistack
+
+
+### 🌱Check out my "fanciest" projects so far:
+- ***[ShapeShifter](https://github.com/Plamena37/Shape-Shifter)***
+
+- ***[FunVenture](https://github.com/Plamena37/Funventure)***
+
+
+
