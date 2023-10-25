@@ -25,14 +25,14 @@
 > ◼️ Firebase
 
 ###  Explored libraries:
-> 🟫 React Router
-> 🟫 React-hook-form
-> 🟫 Material UI
-> 🟫 Angular Material
-> 🟫 Lodash
-> 🟫 Day.js
-> 🟫 Framer Motion
-> 🟫 Notistack
+> - React Router
+> - React-hook-form
+> - Material UI
+> - Angular Material
+> - Lodash
+> - Day.js
+> - Framer Motion
+> - Notistack
 
 
 ### 🌱Check out my "fanciest" projects so far:
