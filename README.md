@@ -11,15 +11,16 @@
 >  🔲 React
 >  🔲 TypeScript
 >  🔲 Redux Toolkit
->  🔲 HTML5
->  🔲 CSS3
+>  🔲 Axios
+>  🔲 HTML5 & CSS3
 >  🔲 SCSS
 
 
 ### Have basic experience with:
 > ◼️ Node.js
 > ◼️ NestJS
-> ◼️ Mongo DB
+> ◼️ Mongo DB Atlas
+> ◼️ Mongoose
 > ◼️ Tailwind CSS
 > ◼️ Firebase
 
@@ -30,7 +31,7 @@
 > 🟫 Angular Material
 > 🟫 Lodash
 > 🟫 Day.js
-> 🟫  Framer Motion
+> 🟫 Framer Motion
 > 🟫 Notistack
 
 
