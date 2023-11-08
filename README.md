@@ -8,8 +8,8 @@
 
 ### My main stack:
 >  🔸 JavaScript
->  🔸 React
 >  🔸 TypeScript
+>  🔸 React
 >  🔸 Redux Toolkit
 >  🔸 Axios
 >  🔸 HTML5 & CSS3
