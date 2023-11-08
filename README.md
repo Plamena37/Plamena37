@@ -2,27 +2,27 @@
 
 ### 🌊 Located in Burgas
 
-### :woman_student: I've successfully obtained a Bachelor's degree in Software Engineering from Burgas Free University.
+### :woman_student: I've successfully obtained a Bachelor's degree in Software Engineering
 
 ### :sparkles: Interested in Front-end technologies
 
 ### My main stack:
->  🔲 JavaScript
->  🔲 React
->  🔲 TypeScript
->  🔲 Redux Toolkit
->  🔲 Axios
->  🔲 HTML5 & CSS3
->  🔲 SCSS
+>  🔸 JavaScript
+>  🔸 React
+>  🔸 TypeScript
+>  🔸 Redux Toolkit
+>  🔸 Axios
+>  🔸 HTML5 & CSS3
+>  🔸 SCSS
 
 
 ### Have basic experience with:
-> ◼️ Node.js
-> ◼️ NestJS
-> ◼️ Mongo DB Atlas
-> ◼️ Mongoose
-> ◼️ Tailwind CSS
-> ◼️ Firebase
+> 🔹 Node.js
+> 🔹 NestJS
+> 🔹 Mongo DB Atlas
+> 🔹 Mongoose
+> 🔹 Tailwind CSS
+> 🔹 Firebase
 
 ###  Explored libraries:
 > - React Router
