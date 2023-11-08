@@ -2,7 +2,7 @@
 
 ### 🌊 Located in Burgas
 
-### :woman_student: I've successfully graduated Software Engineering at Burgas Free University
+### :woman_student: I've successfully obtained a Bachelor's degree in Software Engineering from Burgas Free University.
 
 ### :sparkles: Interested in Front-end technologies
 
