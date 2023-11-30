@@ -36,9 +36,8 @@
 
 
 ### 🌱Check out my "fanciest" projects so far:
-- ***[ShapeShifter backend](https://github.com/Plamena37/shape-shifter-backend)***
 - ***[ShapeShifter frontend](https://github.com/Plamena37/shape-shifter-frontend)***
-
+- ***[ShapeShifter backend](https://github.com/Plamena37/shape-shifter-backend)***
 - ***[FunVenture](https://github.com/Plamena37/Funventure)***
 
 
