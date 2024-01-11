@@ -8,12 +8,15 @@
 
 ### My main stack:
 >  🔸 JavaScript
->  🔸 TypeScript
+>  🔸 Typescript
 >  🔸 React
->  🔸 Redux & Redux Toolkit
+>  🔸 Redux
+>  🔸 Redux Toolkit 
+>  🔸 Context API
 >  🔸 Axios
 >  🔸 HTML5 & CSS3
 >  🔸 SCSS
+>  🔸 Tailwind CSS
 
 
 ### Have basic experience with:
@@ -21,8 +24,10 @@
 > 🔹 NestJS
 > 🔹 Mongo DB Atlas
 > 🔹 Mongoose
-> 🔹 Tailwind CSS
 > 🔹 Firebase
+> 🔹 Supabase
+> 🔹 styled-components
+
 
 ###  Explored libraries:
 > - React Router
@@ -33,6 +38,7 @@
 > - Day.js
 > - Framer Motion
 > - Notistack
+
 
 
 ### 🌱Check out my "fanciest" projects so far:
