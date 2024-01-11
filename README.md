@@ -10,7 +10,7 @@
 >  🔸 JavaScript
 >  🔸 TypeScript
 >  🔸 React
->  🔸 Redux Toolkit
+>  🔸 Redux & Redux Toolkit
 >  🔸 Axios
 >  🔸 HTML5 & CSS3
 >  🔸 SCSS
