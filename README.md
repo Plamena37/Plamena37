@@ -26,18 +26,21 @@
 > 🔹 Mongoose
 > 🔹 Firebase
 > 🔹 Supabase
+> 🔹 React Query
 > 🔹 styled-components
 
 
 ###  Explored libraries:
 > - React Router
 > - React-hook-form
+> - React Icons
 > - Material UI
 > - Angular Material
 > - Lodash
 > - Day.js
 > - Framer Motion
 > - Notistack
+> - Recharts
 
 
 
