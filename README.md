@@ -45,6 +45,7 @@
 
 
 ### 🌱Check out my "fanciest" projects so far:
+- ***[Portfolio](https://github.com/Plamena37/3d-portfolio)***
 - ***[The Wild Oasis](https://github.com/Plamena37/the-wild-oasis)***
 - ***[ShapeShifter frontend](https://github.com/Plamena37/shape-shifter-frontend)***
 - ***[ShapeShifter backend](https://github.com/Plamena37/shape-shifter-backend)***
