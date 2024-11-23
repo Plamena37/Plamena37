@@ -11,7 +11,6 @@
  🔸 Typescript
  🔸 React
  🔸 Next.js
- 🔸 React Native
  🔸 HTML5, CSS3, SCSS, Tailwind CSS
 
 
