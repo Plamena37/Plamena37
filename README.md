@@ -1,24 +1,30 @@
 # 👋 Hi there, I'm Plamena
 
-### 🌊 Located in Burgas
+## I'm a Frontend Engineer based in Burgas, specializing in building modern, reusable and used-focused web applications.
 
-### :woman_student: I've successfully obtained a Bachelor's degree in Software Engineering
+### :sparkles: My main stack includes 🔸 React 🔸 TypeScript 🔸 JavaScript 🔸 Next.js 🔸 Tailwind CSS 🔸 HTML/CSS
 
-### :sparkles: Interested in front-end technologies
+### :sparkles: Experience working with 🔸 TanStack 🔸 Zustand 🔸 React Hook Form 🔸 Zod 🔸 Vitest 🔸 Testing Library
 
-### My main stack:
- 🔸 JavaScript
- 🔸 Typescript
- 🔸 React
- 🔸 Next.js
- 🔸 HTML5, CSS3, SCSS, Tailwind CSS
+### 🎓 Bachelor's degree in Software Engineering
 
 
+### 🛠️ Tech Stack
 
-### 🌱Check out my "fanciest" projects so far:
+**Frontend:** React, TypeScript, JavaScript, Next.js, HTML, CSS, Sass, Tailwind CSS, Shadcn/UI
+
+**State & Data:** Zustand, TanStack Query, TanStack Table, Axios
+
+**Forms & Validation:** React Hook Form, Zod
+
+**Testing:** Vitest, Testing Library
+
+**Other:** Google Maps API, ExcelJS
+
+
+### ⭐ Check out my fanciest projects so far:
+- ***[Wishlist](https://github.com/Plamena37/wishlist-app)***
 - ***[3D Portfolio](https://github.com/Plamena37/3d-portfolio)***
-- ***[ShapeShifter frontend](https://github.com/Plamena37/shape-shifter-frontend)***
-- ***[ShapeShifter backend](https://github.com/Plamena37/shape-shifter-backend)***
 - ***[FunVenture](https://github.com/Plamena37/Funventure)***
 
 
